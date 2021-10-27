@@ -12,7 +12,7 @@ Pull Requests
 If you make any changes or improvements to this project which you think would be beneficial to others, please consider making a pull request to merge your changes back into the main project.
 
 License
-Polls is licensed under the GNU General Public License v3.0. Please see LICENSE for more info.
+Polls is licensed under the GNU General Public License v3.0. Please see  [`LICENSE`](https://github.com/GIGABAIT-Official/Poll/blob/main/LICENSE) for more info.
 
 Module By
 - xGIGABAITx
