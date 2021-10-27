@@ -5,6 +5,7 @@ Upload "custom" and the "modules" folder to your NamelessMC Root directory (publ
 ## Installing Module
 - Open your NamelessMC dashboard => Modules => Click on "Install"
 - Open widgets window in your NamelessMC dashboard => Layout => Widgets => enable PollWG
+
 Get your support here https://resourcemc.net/discord
 
 ## Contribution
